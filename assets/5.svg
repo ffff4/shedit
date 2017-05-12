@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG 5.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.90176in" height="1.6647in"
+		viewBox="0 0 136.927 119.859" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvConvertTheme"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:none;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st3 {fill:none;stroke:#c05046;stroke-width:3}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape5-1" v:mID="5" v:groupContext="shape" transform="translate(11.7704,-3.47278)">
+			<title>Шестиугольник</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<g id="shadow5-2" v:groupContext="shadow" v:shadowOffsetX="0.3456" v:shadowOffsetY="-1.9728" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.3456,1.9728)" class="st1">
+				<path d="M89.42 6.47 L23.96 6.47 L-8.77 63.17 L23.96 119.86 L89.42 119.86 L122.16 63.17 L89.42 6.47 Z" class="st2"/>
+			</g>
+			<path d="M89.42 6.47 L23.96 6.47 L-8.77 63.17 L23.96 119.86 L89.42 119.86 L122.16 63.17 L89.42 6.47 Z" class="st3"/>
+		</g>
+	</g>
+</svg>
